@@ -1,0 +1,23 @@
+--------------------------
+Made by Terminal with love <3
+--------------------------
+
+Usage: ./TLS2 <host> <length> <proxylist> <threads> <ua list> <mode> <timeout>
+
+Installation:
+
+1. wget https://go.dev/dl/go1.20.linux-amd64.tar.gz
+2. rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.linux-amd64.tar.gz
+3. sudo nano ~/.profile
+4. export PATH=$PATH:/usr/local/go/bin # Add this line and save Intel
+5. source ~/.profile
+6. go version # to confirm the Installation
+7. go build .
+
+Additional parametrs: 
+
+Example: Host | The Fully Qualified Domain Name Along with the protocol (http/https)
+Example: mode | That's request method ex: 'GET' 'POST' 'PUT' etc...
+Example: threads | 1 thread evaluates to 10k goroutines
+Example: Proxy | Your Proxy txt file with ip:port proxies
+Example: ualist | List of UserAgents That you would like to use
