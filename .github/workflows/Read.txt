@@ -1,0 +1,11 @@
+Rekomendasi Threads 
+1-4 Biasanya Di Pakai Kalau Web Hard
+4-10 Biasanya Di Pakai Kalau Web Mayan Hard
+10-15 Biasanya Di Pakai Kalau Mau Show Dstat
+
+Rekomendasi Rate
+5-9 Sesuikan Dengan Thread 1-4 
+9-24 Sesuikan Dengan Thread 4-10
+24-64 Sesuikan Dengan Thread 10-15
+
+Proxy Scrape Type Python3 scrape.py
