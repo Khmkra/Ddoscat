@@ -1,0 +1,73 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cache-Control: no-cache
+Origin: https://target-host
+Referer: https://target-host
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+X-Requested-With: XMLHttpRequest
+TE: trailers
+Trailer: Max-Forwards
+Sec-CH-UA: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-CH-UA-Mobile: ?0
+Sec-CH-UA-Platform: "Windows"
+X-Download-Options: noopen
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Referrer-Policy: strict-origin-when-cross-origin
+X-Cache: miss
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; style-src 'self' 'unsafe-inline' data: blob: https:; img-src * data: blob: https:; font-src 'self' data: blob: https:; connect-src * data: blob: https:; media-src * data: blob: https:; object-src 'self' data: blob: https:; manifest-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; worker-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; frame-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Pragma: no-cache
+Vary: Accept-Encoding
+Set-Cookie: __Host-cc=US; Domain=.target-host; Expires=Thu, 31-Dec-2099 23:59:59 GMT; Path=/; Secure; HttpOnly
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+DNT: 1
+If-Modified-Since: Sat, 1 Jan 2000 00:00:00 GMT
+If-None-Match: "abcdefg123456789"
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cache-Control: no-cache
+Origin: https://target-host
+Referer: https://target-host
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+X-Requested-With: XMLHttpRequest
+TE: trailers
+Trailer: Max-Forwards
+Sec-CH-UA: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-CH-UA-Mobile: ?0
+Sec-CH-UA-Platform: "Windows"
+X-Download-Options: noopen
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Referrer-Policy: strict-origin-when-cross-origin
+X-Cache: miss
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; style-src 'self' 'unsafe-inline' data: blob: https:; img-src * data: blob: https:; font-src 'self' data: blob: https:; connect-src * data: blob: https:; media-src * data: blob: https:; object-src 'self' data: blob: https:; manifest-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; worker-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:; frame-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https:;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Pragma: no-cache
+Vary: Accept-Encoding
+Set-Cookie: __Host-cc=US; Domain=.target-host; Expires=Thu, 31-Dec-2099 23:59:59 GMT; Path=/; Secure; HttpOnly
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+DNT: 1
+If-Modified-Since: Sat, 1 Jan 2000 00:00:00 GMT
+If-None-Match: "abcdefg123456789"
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge,chrome=1
