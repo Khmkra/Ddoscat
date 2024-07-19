@@ -1,6 +1,6 @@
 import os
 import sys
-so.system('npm i puppeteer --save')
+os.system('npm i puppeteer --save')
 os.system('apt update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Debian/debian.sh -O debian.sh && chmod +x debian.sh && bash debian.sh')
 os.system('apt install npm')
 os.system('apt-get install nodejs -y')
